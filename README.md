@@ -139,7 +139,8 @@ If second param `keepLazyStack` set to `true`, then iterator will not evaluate
 stacked transforms prior to run. That can be useful to optimize calculations.
 
 
-Support svgpath
----------------
+## License and Copyright
 
-You can support this project via [Tidelift subscription](https://tidelift.com/subscription/pkg/npm-svgpath?utm_source=npm-svgpath&utm_medium=referral&utm_campaign=readme).
+This software is released under the terms of the [MIT license](https://github.com/IDationTech/svgpath/blob/master/LICENSE).
+
+This project is a derived version of the main project : [https://github.com/fontello/svgpath](https://github.com/fontello/svgpath).
