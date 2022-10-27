@@ -1,6 +1,6 @@
 {
   "name": "@idationtech/svgpath",
-  "version": "2.5.01",
+  "version": "2.5.02",
   "description": "Low level toolkit for SVG paths transformations.",
   "keywords": [
     "svg",
